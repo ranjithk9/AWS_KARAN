@@ -1,0 +1,5 @@
+#surefire
+#Thu Nov 24 15:20:13 UTC 2022
+basedir=/home/ec2-user/rbi2/sbi-web-app
+user.dir=/home/ec2-user/rbi2/sbi-web-app
+localRepository=/home/ec2-user/.m2/repository

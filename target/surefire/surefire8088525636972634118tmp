@@ -1,0 +1,23 @@
+#surefire
+#Thu Nov 24 15:20:13 UTC 2022
+testSuiteDefinitionTestSourceDirectory=/home/ec2-user/rbi2/sbi-web-app/src/test/java
+includes1=**/*Test.java
+includes2=**/*TestCase.java
+runOrder=filesystem
+includes0=**/Test*.java
+reportsDirectory=/home/ec2-user/rbi2/sbi-web-app/target/surefire-reports
+surefireClassPathUrl.0=/home/ec2-user/.m2/repository/org/apache/maven/surefire/surefire-junit3/2.10/surefire-junit3-2.10.jar
+classPathUrl.0=/home/ec2-user/rbi2/sbi-web-app/target/test-classes
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+classPathUrl.1=/home/ec2-user/rbi2/sbi-web-app/target/classes
+failIfNoTests=false
+classPathUrl.2=/home/ec2-user/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar
+testClassesDirectory=/home/ec2-user/rbi2/sbi-web-app/target/test-classes
+isTrimStackTrace=true
+surefireClassPathUrl.1=/home/ec2-user/.m2/repository/org/apache/maven/surefire/surefire-api/2.10/surefire-api-2.10.jar
+excludes0=**/*$*
+forkMode=once
+enableAssertions=true
+childDelegation=false
+useManifestOnlyJar=true
+useSystemClassLoader=true
